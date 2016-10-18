@@ -36,7 +36,7 @@ AppAsset::register($this);
     
     $nav_report=[
         ['label' => 'Hello First View', 'url' => ['/hello/first']],
-        ['label' => 'สถานการณ์ปัจจุบัน', 'url' => ['/site/second']],
+        ['label' => 'Send 3x5 to view', 'url' => ['/anamai/test']],
         ['label' => 'รายงานสรุป', 'url' => ['/site/summary']]
     ];
     
